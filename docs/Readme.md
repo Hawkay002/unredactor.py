@@ -14,11 +14,11 @@ It works by creating a new document and re-inserting only the essential elements
 Install Python
 2. **Install Git and Clone Obj**
   ```bash
-  git clone https://github.com/OpLumina/unredact.py/
+  git clone https://github.com/Hawkay002/unredactor.py/
   ```
 3. **Install Dependencies:**  
    ```bash
-   cd unredact.py
+   cd unredactor.py
    python -m venv venv  
    .\venv\Scripts\Activate  
    pip install -r .\docs\requirements.txt  
